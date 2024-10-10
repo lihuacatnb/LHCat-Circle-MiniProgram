@@ -1,0 +1,165 @@
+@charset "UTF-8";
+/**
+ * 下方引入的为Tuniao UI的集成样式文件，为scss预处理器，其中包含了一些"tn-"开头的自定义变量
+ * 使用的时候，请将下面的一行复制到您的uniapp项目根目录的uni.scss中即可
+ * Tuniao UI自定义的css类名和scss变量，均以"tn-"开头，不会造成冲突，请放心使用 
+ */
+.template-order.data-v-91c14efe {
+  background-color: #FFFFFF;
+}
+/* 胶囊*/
+.tn-custom-nav-bar__back.data-v-91c14efe {
+  width: 60%;
+  height: 100%;
+  position: relative;
+  display: flex;
+  justify-content: space-evenly;
+  align-items: center;
+  box-sizing: border-box;
+  background-color: rgba(0, 0, 0, 0.15);
+  border-radius: 1000rpx;
+  border: 1rpx solid rgba(255, 255, 255, 0.5);
+  color: #FFFFFF;
+  font-size: 18px;
+}
+.tn-custom-nav-bar__back .icon.data-v-91c14efe {
+  display: block;
+  flex: 1;
+  margin: auto;
+  text-align: center;
+}
+.login.data-v-91c14efe {
+  position: relative;
+  height: 100%;
+  z-index: 1;
+  /* 内容 start */
+  /* 切换 start */
+  /* 切换 end */
+}
+.login__wrapper.data-v-91c14efe {
+  width: 100%;
+}
+.login__mode.data-v-91c14efe {
+  position: relative;
+  margin: 0 auto;
+  width: 326rpx;
+  height: 60rpx;
+  margin-top: 16rpx;
+  border: 1rpx solid #E6E6E6;
+  border-radius: 39rpx;
+}
+.login__mode__item.data-v-91c14efe {
+  height: 77rpx;
+  width: 100%;
+  line-height: 77rpx;
+  text-align: center;
+  font-size: 31rpx;
+  color: #AAAAAA;
+  z-index: 2;
+  transition: all 0.4s;
+}
+.login__mode__item--active.data-v-91c14efe {
+  font-weight: bold;
+  color: #000000;
+}
+.order.data-v-91c14efe {
+  /* 导航栏 start */
+  /* 导航栏 end */
+  /* swiper start */
+  /* swiper end */
+  /* 订单内容 start */
+  /* 订单内容 end */
+}
+.order--wrap.data-v-91c14efe {
+  position: fixed;
+  left: 0;
+  right: 0;
+  width: 100%;
+  background-color: inherit;
+}
+.order__tabs.data-v-91c14efe {
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  background-color: inherit;
+}
+.order__swiper.data-v-91c14efe {
+  position: absolute;
+  left: 0;
+  right: 0;
+  width: 100%;
+  background-color: inherit;
+}
+.order__item.data-v-91c14efe {
+  margin: 20rpx;
+  padding: 36rpx 26rpx;
+  background-color: #FFFFFF;
+  border-radius: 15rpx;
+  box-shadow: 0rpx 0rpx 50rpx 0rpx rgba(0, 0, 0, 0.07);
+  /* 头部 start */
+  /* 头部 end */
+  /* 内容 start */
+  /* 内容 end */
+  /* 操作按钮 start */
+  /* 操作按钮 end */
+}
+.order__item.data-v-91c14efe:first-child {
+  margin-top: 40rpx;
+}
+.order__item.data-v-91c14efe:last-child {
+  margin-bottom: 0;
+}
+.order__item__head__title.data-v-91c14efe {
+  font-weight: bold;
+  line-height: normal;
+}
+.order__item__head__title--right-icon.data-v-91c14efe {
+  font-size: 24rpx;
+  margin-left: 8rpx;
+}
+.order__item__head__status.data-v-91c14efe {
+  font-size: 22rpx;
+  color: #AAAAAA;
+}
+.order__item__content.data-v-91c14efe {
+  margin-top: 20rpx;
+}
+.order__item__content__image.data-v-91c14efe {
+  margin-right: 20rpx;
+}
+.order__item__content__image image.data-v-91c14efe {
+  width: 140rpx;
+  height: 140rpx;
+  border-radius: 10rpx;
+}
+.order__item__content__title.data-v-91c14efe {
+  padding-right: 40rpx;
+  display: -webkit-box;
+  overflow: hidden;
+  white-space: normal !important;
+  text-overflow: ellipsis;
+  word-wrap: break-word;
+  -webkit-line-clamp: 2;
+  -webkit-box-orient: vertical;
+}
+.order__item__content__info__price--unit.data-v-91c14efe {
+  font-size: 20rpx;
+}
+.order__item__content__info__price__value--integer.data-v-91c14efe, .order__item__content__info__price__value--decimal.data-v-91c14efe {
+  font-weight: bold;
+}
+.order__item__content__info__price__value--decimal.data-v-91c14efe {
+  font-size: 20rpx;
+}
+.order__item__content__info__count.data-v-91c14efe {
+  color: #AAAAAA;
+  font-size: 24rpx;
+}
+.order__item__operation.data-v-91c14efe {
+  margin-top: 30rpx;
+}
+.order__item__operation__right__button.data-v-91c14efe {
+  margin-left: 10rpx;
+}
+

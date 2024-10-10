@@ -1,0 +1,130 @@
+{
+  "easycom": {
+    "^tn-(.*)": "@/tuniao-ui/components/tn-$1/tn-$1.vue"
+  },
+	"pages": [ //pages数组中第一项表示应用启动页，参考：https://uniapp.dcloud.io/collocation/pages
+		{
+		  "path": "pages/index",
+		  "style": {
+		    "mp-weixin": {
+		      "disableScroll": true
+		    },
+		    "app-plus": {
+		      "bounce": "none"
+		    },
+		    "mp-alipay": {
+		      "allowsBounceVertical": "NO"
+		    },
+		    "mp-baidu": {
+		      "disableScroll": true
+		    }
+		  }
+		}
+	],
+  "subPackages": [{
+    "root":"homePages",
+    "pages": []
+  }, {
+    "root":"circlePages",
+    "pages": [{
+        "path": "circle",
+        "style": {
+          "navigationBarTitleText": "晒帖子",
+          "enablePullDownRefresh": false
+        }
+      }]
+  }, {
+    "root":"discoveryPages",
+    "pages": [{
+        "path": "edit",
+        "style": {
+          "navigationBarTitleText": "发闲置",
+          "enablePullDownRefresh": false
+        }
+      },
+      {
+        "path": "order",
+        "style": {
+          "navigationBarTitleText": "订单",
+          "enablePullDownRefresh": false
+        }
+      },
+      {
+        "path": "partner",
+        "style": {
+          "navigationBarTitleText": "人脉",
+          "enablePullDownRefresh": false
+        }
+      },
+      {
+        "path": "form",
+        "style": {
+          "navigationBarTitleText": "订单明细",
+          "enablePullDownRefresh": false
+        }
+      } 
+    ]
+  }, {
+    "root":"messagePages",
+    "pages": [{
+        "path": "chat",
+        "style": {
+          "navigationBarTitleText": "聊天",
+          "enablePullDownRefresh": false
+        }
+      } 
+    ]
+  }, {
+    "root":"minePages",
+    "pages": [{
+        "path": "set",
+        "style": {
+          "navigationBarTitleText": "设置",
+          "enablePullDownRefresh": false
+        }
+      },
+      {
+        "path": "avatar",
+        "style": {
+          "navigationBarTitleText": "头像",
+          "enablePullDownRefresh": false
+        }
+      },
+      {
+        "path": "integral",
+        "style": {
+          "navigationBarTitleText": "积分",
+          "enablePullDownRefresh": false
+        }
+      },
+      {
+        "path": "about",
+        "style": {
+          "navigationBarTitleText": "关于",
+          "enablePullDownRefresh": false
+        }
+      },
+      {
+        "path": "protocol",
+        "style": {
+          "navigationBarTitleText": "协议",
+          "enablePullDownRefresh": false
+        }
+      },
+      {
+        "path": "withdraw",
+        "style": {
+          "navigationBarTitleText": "提现",
+          "enablePullDownRefresh": false
+        }
+      } 
+    ]
+  }],
+	"globalStyle": {
+	  "navigationStyle": "custom",
+	  "navigationBarTextStyle": "black",
+	  "navigationBarTitleText": "狸猫科技",
+	  "navigationBarBackgroundColor": "#F8F8F8",
+	  "backgroundColor": "#F8F8F8"
+	}
+}
