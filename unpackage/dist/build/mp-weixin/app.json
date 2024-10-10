@@ -1,0 +1,50 @@
+{
+  "pages": [
+    "pages/index"
+  ],
+  "subPackages": [
+    {
+      "root": "circlePages",
+      "pages": [
+        "circle"
+      ]
+    },
+    {
+      "root": "discoveryPages",
+      "pages": [
+        "edit",
+        "order",
+        "partner",
+        "form"
+      ]
+    },
+    {
+      "root": "messagePages",
+      "pages": [
+        "chat"
+      ]
+    },
+    {
+      "root": "minePages",
+      "pages": [
+        "set",
+        "avatar",
+        "integral",
+        "about",
+        "protocol",
+        "withdraw"
+      ]
+    }
+  ],
+  "window": {
+    "navigationStyle": "custom",
+    "navigationBarTextStyle": "black",
+    "navigationBarTitleText": "狸猫科技",
+    "navigationBarBackgroundColor": "#F8F8F8",
+    "backgroundColor": "#F8F8F8"
+  },
+  "requiredPrivateInfos": [
+    "chooseAddress"
+  ],
+  "usingComponents": {}
+}
