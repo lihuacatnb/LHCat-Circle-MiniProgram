@@ -18,7 +18,7 @@ The open-source files are located in the project archive under the folder "form-
 <br>
 ### 3.注意事项（Precautions）
 
-##### (1)图鸟UI设计的发现页中的推荐模块内，有一个随机生成重复帖子的功能，开发组准备修改为随机但不重复生成帖子，但是源代码过于晦涩，未实现修改任务，期待有大佬实现。
+##### （1）图鸟UI设计的发现页中的推荐模块内，有一个随机生成重复帖子的功能，开发组准备修改为随机但不重复生成帖子，但是源代码过于晦涩，未实现修改任务，期待有大佬实现。
 
 _In the "Recommendations" module of the Discovery page designed by Tuniu UI, there is a feature that randomly generates duplicate posts. The development team plans to modify it so that the posts are generated randomly but without duplication.However, the source code is too complex, and they were unable to complete the modification task. They are hoping for an expert to implement this feature._
 
