@@ -6,7 +6,8 @@
 
 _The project is a workplace community mini program based on the Tuniu UI framework, suitable for undergraduate and associate degree students' mini program development assignments. 
 It is not recommended for graduation projects or commercial development._
-
+<br>
+<br>
 ### 2.使用项目（Use Project）
 
 本项目使用了图鸟UI中 图鸟模板-社区 的开源项目，项目网址是https://ext.dcloud.net.cn/plugin?id=9743  ，开源文件在项目压缩包 form-open-resources.rar 中。
