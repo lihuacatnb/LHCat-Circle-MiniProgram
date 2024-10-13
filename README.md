@@ -4,23 +4,23 @@
 
 本项目是基于图鸟UI基础的职场圈子小程序，适用于本专科的小程序开发作业，不推荐用于毕业设计和商业开发。
 
-
+<br>
 The project is a workplace community mini program based on the Tuniu UI framework, suitable for undergraduate and associate degree students' mini program development assignments. 
 
 It is not recommended for graduation projects or commercial development.
 
-
+<br>
 
 ### 2.使用项目（Use Project）
 
 本项目使用了图鸟UI中 图鸟模板-社区 的开源项目，项目网址是https://ext.dcloud.net.cn/plugin?id=9743  ，开源文件在项目压缩包 form-open-resources.rar 中。
 
-
+<br>
 This project utilizes the open-source Tuniu UI template "Community" from Tuniu UI, and the project URL is https://ext.dcloud.net.cn/plugin?id=9743. 
 
 The open-source files are located in the project archive under the folder "form-open-resources."
 
-
+<br>
 
 ### 3.注意事项（Precautions）
 
