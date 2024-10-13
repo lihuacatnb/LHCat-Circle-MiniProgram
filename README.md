@@ -11,9 +11,7 @@ It is not recommended for graduation projects or commercial development.
 
 ### 2.使用项目（Use Project）
 
-本项目使用了图鸟UI中 图鸟模板-社区 的开源项目，项目网址是https://ext.dcloud.net.cn/plugin?id=9743，
-
-开源文件在项目压缩包 form-open-resources 中。
+本项目使用了图鸟UI中 图鸟模板-社区 的开源项目，项目网址是https://ext.dcloud.net.cn/plugin?id=9743  ，开源文件在项目压缩包 form-open-resources 中。
 
 This project utilizes the open-source Tuniu UI template "Community" from Tuniu UI, and the project URL is https://ext.dcloud.net.cn/plugin?id=9743. 
 
