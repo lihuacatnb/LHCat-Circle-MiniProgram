@@ -29,7 +29,7 @@ _In the Message page, there is a star icon displayed where a bouquet icon should
 <br>
 ### 4.开发人员（Developers）
 
-狸猫科技 Lihuacat Technology
+狸猫科技 _Lihuacat Technology_
 <br>
 <br>
 ### 5.项目展示（Project Display）
