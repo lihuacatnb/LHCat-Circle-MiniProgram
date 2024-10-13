@@ -6,7 +6,6 @@
 <br>
 <br>
 The project is a workplace community mini program based on the Tuniu UI framework, suitable for undergraduate and associate degree students' mini program development assignments. 
-
 It is not recommended for graduation projects or commercial development.
 <br>
 <br>
@@ -16,7 +15,6 @@ It is not recommended for graduation projects or commercial development.
 <br>
 <br>
 This project utilizes the open-source Tuniu UI template "Community" from Tuniu UI, and the project URL is https://ext.dcloud.net.cn/plugin?id=9743. 
-
 The open-source files are located in the project archive under the folder "form-open-resources."
 <br>
 <br>
