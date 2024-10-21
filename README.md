@@ -34,8 +34,8 @@ _In the Message page, there is a star icon displayed where a bouquet icon should
 <br>
 ### 5.项目展示（Project Display）
 
-![show-1](https://github.com/lihuacatnb/lihuacat-circle/blob/main/show-1.jpg)
+<img src="https://github.com/lihuacatnb/lihuacat-circle/blob/main/show-1.jpg" alt="show-1" width="100" height="300"/>
 
-![show-2](https://github.com/lihuacatnb/lihuacat-circle/blob/main/show-2.jpg)
+<img src="https://github.com/lihuacatnb/lihuacat-circle/blob/main/show-2.jpg" alt="show-2" width="100" height="300"/>
 
 
