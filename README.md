@@ -1,4 +1,4 @@
-# 狸猫职场圈子微信小程序 Lihuacat-Circle
+# 狸猫职场圈子微信小程序 Lihuacat-Circle WeChat Mini Program
 
 ### 1.项目简介（Project Introduction）
 
