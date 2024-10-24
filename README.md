@@ -1,4 +1,4 @@
-# 狸猫职场圈子 Lihuacat-Circle
+# 狸猫职场圈子微信小程序 Lihuacat-Circle
 
 ### 1.项目简介（Project Introduction）
 
