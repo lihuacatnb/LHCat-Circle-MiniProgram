@@ -8,7 +8,7 @@
 ## 2.项目基础
 本项目使用了图鸟UI中 __图鸟模板-社区__ 的开源项目，项目网址是 https://ext.dcloud.net.cn/plugin?id=9743 
 <br>
-开源文件在项目压缩包 __form-open-resources.rar__ 中。
+开源文件在项目压缩包 __from-open-resources.rar__ 中。
 <br>
 <br>
 
