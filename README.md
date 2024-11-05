@@ -18,6 +18,7 @@ Message页面中，有一个星星图标，下面显示为花束。这是因为�
 ## 5.项目展示
 <img src="https://github.com/lihuacatnb/lihuacat-circle/blob/main/show-1.jpg" alt="show-1" width="400" height="830"/>
 <img src="https://github.com/lihuacatnb/lihuacat-circle/blob/main/show-2.jpg" alt="show-2" width="400" height="830"/>
+
 ## 6.商务合作
 微信：maxiuwo1314     _WeChat: maxiuwo1314_ <br>
 邮箱：zhaogangbjm@gmail.com     _Email：zhaogangbjm@gmail.com_
