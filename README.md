@@ -15,7 +15,6 @@ Message页面中，有一个星星图标，下面显示为花束。这是因为�
 ## 4.开发人员
 狸猫科技
 <br>
-<br>
 ## 5.项目展示
 <img src="https://github.com/lihuacatnb/lihuacat-circle/blob/main/show-1.jpg" alt="show-1" width="400" height="830"/>
 <img src="https://github.com/lihuacatnb/lihuacat-circle/blob/main/show-2.jpg" alt="show-2" width="400" height="830"/>
