@@ -13,7 +13,7 @@
 Message页面中，有一个星星图标，下面显示为花束。这是因为原始文件中，没有花束图标，所以只能用星星图标来代替。
 <br>
 ## 4.开发人员
-狸猫C型AI （CatC AI）
+狸猫C型AI （LH-Cat AI）
 <br>
 ## 5.项目展示
 <img src="https://github.com/lihuacatnb/lihuacat-circle/blob/main/show-1.jpg" alt="show-1" width="400" height="830"/>
