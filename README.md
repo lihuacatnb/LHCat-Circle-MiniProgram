@@ -1,5 +1,9 @@
 # 狸猫职场圈子微信小程序 
 
+
+---
+
+
 ## 1. 项目简介
 本项目基于 **图鸟UI** 开发，属于一个职场圈子类小程序，适合本专科阶段的小程序开发作业。  
 
@@ -24,3 +28,7 @@
 
 <img src="https://github.com/lihuacatnb/lihuacat-circle/blob/main/show-1.jpg" alt="show-1" width="400" height="830"/>
 <img src="https://github.com/lihuacatnb/lihuacat-circle/blob/main/show-2.jpg" alt="show-2" width="400" height="830"/>
+
+---
+
+<p align="center">⭐️ 如果你觉得有帮助，欢迎点个 Star 支持一下！ ⭐️</p>
